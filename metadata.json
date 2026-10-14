@@ -1,0 +1,6 @@
+{
+  "name": "CYBER-TRACE: Law Enforcement Cyber Crime & Fraud Tracker Workstation",
+  "description": "Professional cyber crime intelligence workstation for investigating OTP scams, tracking suspect IP & GPS locations, running Python forensic traces, and generating official police FIR dossiers.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
